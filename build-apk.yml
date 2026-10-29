@@ -1,9 +1,3 @@
-# Membangun APK di server GitHub, tanpa perlu memasang Flutter/Android SDK.
-#
-# Dua cara memakai:
-#  A) Seluruh isi proyek di-push ke repo ini, atau
-#  B) Cukup unggah tahajud_subuh_companion.zip ke akar repo (praktis dari HP).
-# Setelah selesai: tab Actions → jalankan terbaru → Artifacts → tahajud-subuh-apk.
 name: Build APK
 
 on:
